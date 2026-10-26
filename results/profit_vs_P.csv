@@ -1,0 +1,6 @@
+P,stores_opened,profit_lakh,customers_served_pct,avg_distance_km,max_distance_km,status,mip_gap,solve_time_s
+2,2,14.724,29.93,3.021,4.999,Optimal,0.0,0.066
+5,5,26.859,55.79,2.984,5.0,Optimal,0.0,0.069
+10,10,35.131,77.85,2.885,5.0,Optimal,0.0,0.379
+20,14,36.591,86.16,2.789,5.0,Optimal,0.0,0.048
+25,14,36.591,86.16,2.789,5.0,Optimal,0.0,0.049
